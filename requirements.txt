@@ -1,0 +1,8 @@
+reportlab
+cairosvg
+python-chess
+pdf2image
+Pillow
+cairocffi
+tinycss2
+lxml
